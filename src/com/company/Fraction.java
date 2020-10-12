@@ -2,8 +2,8 @@ package com.company;
 
 public class Fraction {
 
-    public Integer meth1(int a,int b){
-        return(a/b);
+    public String meth1(int a,int b){
+        return("Resulta:"+Integer.toString(a/b));
 
     }
 }
