@@ -10,8 +10,7 @@
 *.o
 *.so
 *.log
-#IDE files
-/workplace.xml
+# IDE files
 /modules.xml
 /misc.xml
 /Project-template.xml
