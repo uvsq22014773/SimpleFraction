@@ -11,9 +11,9 @@
 *.so
 *.log
 #IDE files
-.idea/workplace.xml
-.idea/modules.xml
-.idea/misc.xml
-.idea/Project-template.xml
-.idea/vcs.xml
+/workplace.xml
+/modules.xml
+/misc.xml
+/Project-template.xml
+/vcs.xml
 
