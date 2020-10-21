@@ -1,6 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/modules.xml
 # Compiled source #
 ###################
 *.com
@@ -11,7 +12,6 @@
 *.so
 *.log
 # IDE files
-/modules.xml
 /misc.xml
 /Project-template.xml
 /vcs.xml
