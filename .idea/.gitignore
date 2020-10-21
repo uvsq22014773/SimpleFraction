@@ -9,18 +9,11 @@
 *.exe
 *.o
 *.so
-
-
-# Logs 
-######################
 *.log
+#IDE files
+.idea/workplace.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/Project-template.xml
+.idea/vcs.xml
 
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
